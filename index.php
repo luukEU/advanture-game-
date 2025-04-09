@@ -1,9 +1,9 @@
 <?php
 /*********************************************************************
-* Auteur: ChatGPT (voor Renate)
+* Auteur: Luuk Theelen
 * Datum: 2025-04-09
-* Omschrijving: Fantasie-avonturenspel - Quest for the Crystal Key
-* Versie: 1.0.0
+* Omschrijving: Quest for the Crystal Key
+
 **********************************************************************/
 
 // Deze variabele bevat ASCII-art die wordt weergegeven als je wint.
