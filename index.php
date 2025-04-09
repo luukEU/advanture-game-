@@ -22,7 +22,7 @@ $win =  "     .-'''''-.\n" .
 // Introductie van het spel via printf (gebruikt om tekst naar het scherm te printen)
 printf("Welkom bij 'Quest for the Crystal Key'!\n\n");
 
-// ASCII-kunst van een fantasiewezen voor sfeer
+
 printf("        /\\      /\\ \n");
 printf("       {  `---'  }\n");
 printf("       {  O   O  }\n");
@@ -35,7 +35,7 @@ printf("        |  \\_/  |/ /  \\_\\_/ )\n");
 printf("         \\__/  /(_/     \\__/\n");
 printf("           (__/\n\n");
 
-// Eerste scène van het spel
+// Eerste scène 
 printf("Je wordt wakker in een oud bos met een gloeiende kaart in je hand.\n");
 printf("Twee paden liggen voor je:\n");
 printf("1. Een donkere tunnel onder de berg.\n");
